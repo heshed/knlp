@@ -1,13 +1,13 @@
 KNLP 데몬
 ==============
 
-* [http://konlpy.org] 라이브러리를 이용한 한국어 형태소 분석기 데몬
+* http://konlpy.org 라이브러리를 이용한 한국어 형태소 분석기 데몬
 
 Install
 --------------
 
     clone knlp
-    pip -r requirements.txt'''
+    pip -r requirements.txt
 
 Run
 --------------
@@ -17,12 +17,12 @@ Run
 Usage
 --------------
 
-* open [http://localhost:8888?q=input_your_query]
+* open http://localhost:8888?q=input_your_query
 
 License
 --------------
 
-* GPL v3[http://konlpy.org/ko/latest/#license]
+* GPL v3 http://konlpy.org/ko/latest/#license
 
 More
 --------------
